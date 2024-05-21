@@ -1,0 +1,452 @@
+{
+    "teams": [
+        {
+            "name": "Connecticut",
+            "Seed": 1,
+            "KenPom": 36.43,
+            "ORtg": 123.3,
+            "TS_Perc": 0.597
+        },
+        {
+            "name": "Houston",
+            "Seed": 1,
+            "KenPom": 31.17,
+            "ORtg": 113.6,
+            "TS_Perc": 0.531
+        },
+        {
+            "name": "NorthCarolina",
+            "Seed": 1,
+            "KenPom": 26.19,
+            "ORtg": 114.6,
+            "TS_Perc": 0.557
+        },
+        {
+            "name": "Purdue",
+            "Seed": 1,
+            "KenPom": 30.62,
+            "ORtg": 119.5,
+            "TS_Perc": 0.591
+        },
+        {
+            "name": "Arizona",
+            "Seed": 2,
+            "KenPom": 26.55,
+            "ORtg": 116.8,
+            "TS_Perc": 0.576
+        },
+        {
+            "name": "IowaState",
+            "Seed": 2,
+            "KenPom": 26.47,
+            "ORtg": 110.9,
+            "TS_Perc": 0.551
+        },
+        {
+            "name": "Marquette",
+            "Seed": 2,
+            "KenPom": 23.02,
+            "ORtg": 112.0,
+            "TS_Perc": 0.571
+        },
+        {
+            "name": "Tennessee",
+            "Seed": 2,
+            "KenPom": 26.61,
+            "ORtg": 112.1,
+            "TS_Perc": 0.55
+        },
+        {
+            "name": "Baylor",
+            "Seed": 3,
+            "KenPom": 21.9,
+            "ORtg": 117.8,
+            "TS_Perc": 0.592
+        },
+        {
+            "name": "Creighton",
+            "Seed": 3,
+            "KenPom": 24.22,
+            "ORtg": 116.2,
+            "TS_Perc": 0.6
+        },
+        {
+            "name": "Illinois",
+            "Seed": 3,
+            "KenPom": 24.53,
+            "ORtg": 118.2,
+            "TS_Perc": 0.572
+        },
+        {
+            "name": "Kentucky",
+            "Seed": 3,
+            "KenPom": 19.29,
+            "ORtg": 119.2,
+            "TS_Perc": 0.602
+        },
+        {
+            "name": "Alabama",
+            "Seed": 4,
+            "KenPom": 22.96,
+            "ORtg": 121.1,
+            "TS_Perc": 0.599
+        },
+        {
+            "name": "Auburn",
+            "Seed": 4,
+            "KenPom": 27.99,
+            "ORtg": 117.2,
+            "TS_Perc": 0.58
+        },
+        {
+            "name": "Duke",
+            "Seed": 4,
+            "KenPom": 26.47,
+            "ORtg": 117.1,
+            "TS_Perc": 0.576
+        },
+        {
+            "name": "Kansas",
+            "Seed": 4,
+            "KenPom": 17.94,
+            "ORtg": 107.7,
+            "TS_Perc": 0.567
+        },
+        {
+            "name": "Gonzaga",
+            "Seed": 5,
+            "KenPom": 23.17,
+            "ORtg": 121.1,
+            "TS_Perc": 0.598
+        },
+        {
+            "name": "SaintMary's(CA)",
+            "Seed": 5,
+            "KenPom": 19.43,
+            "ORtg": 115.2,
+            "TS_Perc": 0.552
+        },
+        {
+            "name": "SanDiegoState",
+            "Seed": 5,
+            "KenPom": 19.36,
+            "ORtg": 108.7,
+            "TS_Perc": 0.54
+        },
+        {
+            "name": "Wisconsin",
+            "Seed": 5,
+            "KenPom": 20.06,
+            "ORtg": 112.0,
+            "TS_Perc": 0.56
+        },
+        {
+            "name": "BrighamYoung",
+            "Seed": 6,
+            "KenPom": 19.96,
+            "ORtg": 116.4,
+            "TS_Perc": 0.573
+        },
+        {
+            "name": "Clemson",
+            "Seed": 6,
+            "KenPom": 19.44,
+            "ORtg": 113.4,
+            "TS_Perc": 0.575
+        },
+        {
+            "name": "SouthCarolina",
+            "Seed": 6,
+            "KenPom": 14.4,
+            "ORtg": 110.4,
+            "TS_Perc": 0.54
+        },
+        {
+            "name": "TexasTech",
+            "Seed": 6,
+            "KenPom": 17.32,
+            "ORtg": 111.7,
+            "TS_Perc": 0.567
+        },
+        {
+            "name": "Dayton",
+            "Seed": 7,
+            "KenPom": 17.3,
+            "ORtg": 114.1,
+            "TS_Perc": 0.595
+        },
+        {
+            "name": "Florida",
+            "Seed": 7,
+            "KenPom": 18.19,
+            "ORtg": 115.1,
+            "TS_Perc": 0.554
+        },
+        {
+            "name": "Texas",
+            "Seed": 7,
+            "KenPom": 18.77,
+            "ORtg": 110.1,
+            "TS_Perc": 0.564
+        },
+        {
+            "name": "WashingtonState",
+            "Seed": 7,
+            "KenPom": 16.33,
+            "ORtg": 109.9,
+            "TS_Perc": 0.547
+        },
+        {
+            "name": "FloridaAtlantic",
+            "Seed": 8,
+            "KenPom": 15.74,
+            "ORtg": 116.2,
+            "TS_Perc": 0.577
+        },
+        {
+            "name": "MississippiState",
+            "Seed": 8,
+            "KenPom": 17.07,
+            "ORtg": 107.5,
+            "TS_Perc": 0.543
+        },
+        {
+            "name": "Nebraska",
+            "Seed": 8,
+            "KenPom": 17.55,
+            "ORtg": 110.8,
+            "TS_Perc": 0.567
+        },
+        {
+            "name": "UtahState",
+            "Seed": 8,
+            "KenPom": 14.89,
+            "ORtg": 113.4,
+            "TS_Perc": 0.579
+        },
+        {
+            "name": "MichiganState",
+            "Seed": 9,
+            "KenPom": 20.58,
+            "ORtg": 109.4,
+            "TS_Perc": 0.544
+        },
+        {
+            "name": "Northwestern",
+            "Seed": 9,
+            "KenPom": 16.41,
+            "ORtg": 111.2,
+            "TS_Perc": 0.558
+        },
+        {
+            "name": "TCU",
+            "Seed": 9,
+            "KenPom": 16.04,
+            "ORtg": 110.3,
+            "TS_Perc": 0.551
+        },
+        {
+            "name": "TexasA&M",
+            "Seed": 9,
+            "KenPom": 17.02,
+            "ORtg": 111.4,
+            "TS_Perc": 0.502
+        },
+        {
+            "name": "Colorado",
+            "Seed": 10,
+            "KenPom": 19.03,
+            "ORtg": 113.8,
+            "TS_Perc": 0.593
+        },
+        {
+            "name": "ColoradoState",
+            "Seed": 10,
+            "KenPom": 17.02,
+            "ORtg": 111.9,
+            "TS_Perc": 0.581
+        },
+        {
+            "name": "Drake",
+            "Seed": 10,
+            "KenPom": 14.53,
+            "ORtg": 113.9,
+            "TS_Perc": 0.582
+        },
+        {
+            "name": "Nevada",
+            "Seed": 10,
+            "KenPom": 16.41,
+            "ORtg": 113.0,
+            "TS_Perc": 0.573
+        },
+        {
+            "name": "Duquesne",
+            "Seed": 11,
+            "KenPom": 9.19,
+            "ORtg": 105.5,
+            "TS_Perc": 0.536
+        },
+        {
+            "name": "NCState",
+            "Seed": 11,
+            "KenPom": 15.9,
+            "ORtg": 109.1,
+            "TS_Perc": 0.542
+        },
+        {
+            "name": "NewMexico",
+            "Seed": 11,
+            "KenPom": 17.8,
+            "ORtg": 111.7,
+            "TS_Perc": 0.538
+        },
+        {
+            "name": "Oregon",
+            "Seed": 11,
+            "KenPom": 14.19,
+            "ORtg": 109.6,
+            "TS_Perc": 0.551
+        },
+        {
+            "name": "GrandCanyon",
+            "Seed": 12,
+            "KenPom": 14.84,
+            "ORtg": 112.9,
+            "TS_Perc": 0.568
+        },
+        {
+            "name": "JamesMadison",
+            "Seed": 12,
+            "KenPom": 12.42,
+            "ORtg": 115.0,
+            "TS_Perc": 0.572
+        },
+        {
+            "name": "McNeeseState",
+            "Seed": 12,
+            "KenPom": 11.8,
+            "ORtg": 118.3,
+            "TS_Perc": 0.578
+        },
+        {
+            "name": "UAB",
+            "Seed": 12,
+            "KenPom": 6.49,
+            "ORtg": 111.2,
+            "TS_Perc": 0.546
+        },
+        {
+            "name": "CollegeofCharleston",
+            "Seed": 13,
+            "KenPom": 7.52,
+            "ORtg": 114.6,
+            "TS_Perc": 0.55
+        },
+        {
+            "name": "Samford",
+            "Seed": 13,
+            "KenPom": 10.03,
+            "ORtg": 115.7,
+            "TS_Perc": 0.599
+        },
+        {
+            "name": "Vermont",
+            "Seed": 13,
+            "KenPom": 6.61,
+            "ORtg": 109.1,
+            "TS_Perc": 0.557
+        },
+        {
+            "name": "Yale",
+            "Seed": 13,
+            "KenPom": 9.07,
+            "ORtg": 111.2,
+            "TS_Perc": 0.553
+        },
+        {
+            "name": "Akron",
+            "Seed": 14,
+            "KenPom": 4.58,
+            "ORtg": 109.6,
+            "TS_Perc": 0.555
+        },
+        {
+            "name": "Colgate",
+            "Seed": 14,
+            "KenPom": 1.5,
+            "ORtg": 107.5,
+            "TS_Perc": 0.559
+        },
+        {
+            "name": "MoreheadState",
+            "Seed": 14,
+            "KenPom": 5.15,
+            "ORtg": 113.7,
+            "TS_Perc": 0.572
+        },
+        {
+            "name": "Oakland",
+            "Seed": 14,
+            "KenPom": 3.73,
+            "ORtg": 110.5,
+            "TS_Perc": 0.554
+        },
+        {
+            "name": "LongBeachState",
+            "Seed": 15,
+            "KenPom": -0.25,
+            "ORtg": 105.4,
+            "TS_Perc": 0.527
+        },
+        {
+            "name": "SaintPeter's",
+            "Seed": 15,
+            "KenPom": -3.03,
+            "ORtg": 98.8,
+            "TS_Perc": 0.493
+        },
+        {
+            "name": "SouthDakotaState",
+            "Seed": 15,
+            "KenPom": 2.69,
+            "ORtg": 110.7,
+            "TS_Perc": 0.579
+        },
+        {
+            "name": "WesternKentucky",
+            "Seed": 15,
+            "KenPom": 2.9,
+            "ORtg": 105.6,
+            "TS_Perc": 0.552
+        },
+        {
+            "name": "Grambling",
+            "Seed": 16,
+            "KenPom": -7.09,
+            "ORtg": 100.1,
+            "TS_Perc": 0.527
+        },
+        {
+            "name": "Longwood",
+            "Seed": 16,
+            "KenPom": 0.35,
+            "ORtg": 108.5,
+            "TS_Perc": 0.537
+        },
+        {
+            "name": "Stetson",
+            "Seed": 16,
+            "KenPom": -4.51,
+            "ORtg": 113.4,
+            "TS_Perc": 0.572
+        },
+        {
+            "name": "Wagner",
+            "Seed": 16,
+            "KenPom": -10.0,
+            "ORtg": 100.0,
+            "TS_Perc": 0.489
+        }
+    ]
+}
